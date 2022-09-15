@@ -1,3 +1,3 @@
 # Nike-clone
-This is a normal project that I had created clone of nike online store.
-Here I used web technologies of HTML, CSS, and Js.
+This is a basic front end project. It is a clone of Nike Website.
+Here the technologies used are HTML, CSS and Js.
